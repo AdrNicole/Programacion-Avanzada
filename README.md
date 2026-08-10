@@ -1,6 +1,6 @@
 # Programacion-Avanzada
 Archivos ipynb de los ejercicios desarrollados durante las sesiones practicas
-'''
+´´´
 Programación Avanzada para la Ciencia de Datos 2026-2
 ├── Primera Practica
 │   ├── Revisión Fundamentos Python
@@ -24,4 +24,4 @@ Programación Avanzada para la Ciencia de Datos 2026-2
     ├── Python con MySQL
     ├── Scraping, JSON
     └── APIs
-'''
+´´´
